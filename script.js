@@ -51,7 +51,7 @@ for(bt of buttons){
         //console.log(arr, input)
         if(arr[i] != input[i]){
             start = false;
-            h.innerText = `${level} is your score...`;
+            h.innerText = ` your score is ${level} `;
             document.querySelector(".over").innerText = "Game Over"; 
         }
         if(input.length==arr.length){

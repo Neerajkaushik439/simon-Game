@@ -12,8 +12,10 @@ body{
 }
 
 .over{
+    position: relative;
     color: red;
-    font-size: 10em;
+    font-size: 6em;
+    
 }
 body {
     background-image: url('https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHdvb2QlMjBibG9ja3xlbnwwfHwwfHx8MA%3D%3D');
@@ -27,7 +29,7 @@ body {
     width: 356px;
     flex-wrap: wrap;
     /* margin-left: 580px; */
-    margin-top: 50px;
+    margin-top: 40px;
 }
 body{
     text-align: center;
