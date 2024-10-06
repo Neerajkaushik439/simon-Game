@@ -1,3 +1,7 @@
+body{
+    display: flex;
+    justify-content: center;
+}
 .box{
     height: 150px;
     width: 150px;
@@ -22,7 +26,7 @@ body {
     height: 356px;
     width: 356px;
     flex-wrap: wrap;
-    margin-left: 580px;
+    /* margin-left: 580px; */
     margin-top: 50px;
 }
 body{
